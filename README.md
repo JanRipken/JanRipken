@@ -1,5 +1,5 @@
 # Jan Ripken
-## Backend Development
+## Design and Development
 
 
 I am 23 years old and a passionate developer and coder since around 2019. I've started creating small tools using .NET (C#) and Windows Presentation Foundation. Also, some Bots using the Discord API to dive deeper into Python and object oriented programming in general.
