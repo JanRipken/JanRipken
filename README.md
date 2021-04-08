@@ -3,7 +3,7 @@
 
 
 I am 23 years old and a passionate developer and coder since around 2019. I've started creating small tools using .NET (C#) and Windows Presentation Foundation. Also, some Bots using the Discord API to dive deeper into Python and object oriented programming in general.
-Currently, I am working at jade University of Applied Sciences as a Student assistent for high level language programming 
+Currently, I am a student at the jade University of Applied Sciences with a major in mechanical engineering and specialization in Cyber-physical systems and work as a Student assistant for high level language programming.
 
 ## Skills and Expierience
 * Python
