@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Jan Ripken
+# Hi there 👋, my name is Jan Ripken
 #### Backend Development
 ![Backend Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
