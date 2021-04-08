@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Jan Ripken
+Jan Ripken
 ## Backend Development
 
 
