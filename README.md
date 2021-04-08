@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://github.com/JanRipken/JanRipken/blob/main/helloworld_finished.png)
+![I am GitHub Readme Generator's creator](https://github.com/JanRipken/JanRipken/blob/main/image.png)
 
 # Jan Ripken
 ## Design and Development
