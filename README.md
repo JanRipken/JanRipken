@@ -10,7 +10,7 @@ Currently, I am a student at the jade University of Applied Sciences with a majo
 * Python
 * C# ,XAML
 * C
-* Linux, Kali Linux
+* Linux
 
 
 
