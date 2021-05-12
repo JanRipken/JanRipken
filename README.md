@@ -9,7 +9,7 @@ I am 23 years old and a passionate developer and coder since around 2019. I've s
 Currently, I am a student at the jade University of Applied Sciences with a major in mechanical engineering and specialization in Cyber-physical systems and work as a Student assistant for high level language programming.
 
 At the moment i'm working on creating CSE videos using the Python Library "manim"
-![Manim Logo]('https://user-images.githubusercontent.com/72017165/117935727-4f809500-b304-11eb-97c4-766931f9415e.png')
+
 [<img src='https://user-images.githubusercontent.com/72017165/117935727-4f809500-b304-11eb-97c4-766931f9415e.png' height='40'>](https://github.com/JanRipken)
 
 ## Skills and Experience
