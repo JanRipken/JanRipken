@@ -24,7 +24,7 @@ At the moment i'm working on creating CSE videos using the Python Library "Manim
 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/JanRipken/Icons_readme/main/languages_and_others/python/python.svg"></a>
 
-
+  
 <br>
 
 ## Github Stats:
