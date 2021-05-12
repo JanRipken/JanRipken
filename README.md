@@ -16,9 +16,9 @@ At the moment i'm working on creating CSE videos using the Python Library "Manim
 
 # Languages and Experience:
 
-<a target="_blank"> <img align="left" src="https://raw.githubusercontent.com/JanRipken/Icons_readme/main/languages_and_others/c/c.svg" alt="c" height="42px"/> </a> 
+<a href="https://www.c.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/JanRipken/Icons_readme/main/languages_and_others/c/c.svg" alt="c" height="42px"/> </a> 
 
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/JanRipken/Icons_readme/main/languages_and_others/cpp/c++.svg" alt="c" height="42px"/> </a> 
+<a href="https://isocpp.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/JanRipken/Icons_readme/main/languages_and_others/cpp/c++.svg" alt="c" height="42px"/> </a> 
 
 <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/JanRipken/Icons_readme/main/languages_and_others/csharp/csharp.svg"> </a>
 
