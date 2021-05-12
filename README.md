@@ -1,8 +1,8 @@
 
 ![I am GitHub Readme Generator's creator](https://github.com/JanRipken/JanRipken/blob/main/image.png)
 
-# Jan Ripken
-## Design and Development
+
+### Design and Development
 
 I am 23 years old and a passionate developer and coder since around 2019. I've started creating small tools using .NET (C#) and Windows Presentation Foundation. Also, some Bots using the Discord API to dive deeper into Python and object oriented programming in general.
 Currently, I am a student at the jade University of Applied Sciences with a major in mechanical engineering and specialization in Cyber-physical systems and work as a Student assistant for high level language programming.
@@ -14,7 +14,7 @@ At the moment i'm working on creating CSE videos using the Python Library "Manim
 
 <br>
 
-## Languages and Experience:
+### Languages and Experience:
 
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/JanRipken/Icons_readme/main/languages_and_others/c/c.svg" alt="c" height="42px"/> </a> 
 
@@ -27,7 +27,7 @@ At the moment i'm working on creating CSE videos using the Python Library "Manim
   
 <br>
 
-## Github Stats:
+### Github Stats:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JanRipken&theme=dracula&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanRipken&theme=dracula&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
