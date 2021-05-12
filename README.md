@@ -16,7 +16,7 @@ At the moment i'm working on creating CSE videos using the Python Library "Manim
 
 ## Languages and Experience:
 
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/JanRipken/Icons_readme/languages_and_others/c/c.svg" alt="c" height="42px"/> </a> 
+<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/JanRipken/Icons_readme/main/languages_and_others/c/c.svg" alt="c" height="42px"/> </a> 
 
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c++/c++.svg" alt="c" height="42px"/> </a> 
 
