@@ -12,7 +12,10 @@ At the moment i'm working on creating CSE videos using the Python Library "Manim
 [<img src='https://user-images.githubusercontent.com/72017165/117935727-4f809500-b304-11eb-97c4-766931f9415e.png' height='40'>](https://www.manim.community/)
 
 ## Skills and Experience
-* <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c#/c#.svg"></a>
+
 * C# ,XAML
 * C
 * Linux
