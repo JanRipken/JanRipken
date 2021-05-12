@@ -26,6 +26,10 @@ At the moment i'm working on creating CSE videos using the Python Library "Manim
 
 <br>
 
+
+
+
+
 ## Statistics:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JanRipken&theme=dracula&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
