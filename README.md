@@ -14,7 +14,7 @@ At the moment i'm working on creating CSE videos using the Python Library "Manim
 ## Skills and Experience
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="C#" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c#/c#.svg"></a>
+<a href="https://docs.microsoft.com/de-de/dotnet/csharp/" target="_blank"><img align="left" alt="c#" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c#/c#.svg"></a>
 
 * C# ,XAML
 * C
