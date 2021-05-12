@@ -10,7 +10,7 @@ Currently, I am a student at the jade University of Applied Sciences with a majo
 
 At the moment i'm working on creating CSE videos using the Python Library "manim"
 
-[<img src='https://user-images.githubusercontent.com/72017165/117935727-4f809500-b304-11eb-97c4-766931f9415e.png' height='40'>](https://github.com/JanRipken)
+[<img src='https://user-images.githubusercontent.com/72017165/117935727-4f809500-b304-11eb-97c4-766931f9415e.png' height='40'>](https://docs.manim.community/en/stable/index.html)
 
 ## Skills and Experience
 * Python
