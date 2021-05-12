@@ -18,10 +18,7 @@ At the moment i'm working on creating CSE videos using the Python Library "Manim
 * C
 * Linux
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanRipken&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JanRipken&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
