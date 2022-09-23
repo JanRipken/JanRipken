@@ -7,12 +7,6 @@
 My name is [Jan Ripken](https://ripken.netlify.app/) i am 24 years old and a passionate developer and coder since around 2019. I've started creating small tools using .NET (C#) and Windows Presentation Foundation. Also, some Bots using the Discord API to dive deeper into Python and object oriented programming in general.
 Currently, I am a student at the jade University of Applied Sciences with a major in mechanical engineering and specialization in Cyber-physical systems and work as a Student assistant for high level language programming.
 
-At the moment i'm working on creating CSE videos using the Python Library "Manim"
-
-[<img src='https://user-images.githubusercontent.com/72017165/117935727-4f809500-b304-11eb-97c4-766931f9415e.png' height='40'>](https://www.manim.community/)
-
-
-<br>
 
 # Languages and Experience:
 
