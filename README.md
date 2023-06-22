@@ -1,10 +1,14 @@
 
 ![I am GitHub Readme Generator's creator](https://github.com/JanRipken/JanRipken/blob/main/image.png)
 # About me
-As an aspiring developer, my primary objective is to elevate my workflow, create efficient projects, delve into memory management, and ultimately craft exceptional software.
 
-As a Junior C++ Software Developer, I bring expertise in Docker, Linux operating systems, and servers, along with proficiency in Python and TensorFlow. I thrive on solving intricate problems and developing powerful software solutions. Collaboration, effective communication, and adaptability are some of my key strengths. I am constantly driven to take on new challenges and expand my knowledge.
+As a Junior C++ Software Developer, I am also well-versed in the field of data engineering, with a specific focus on technologies like Apache Kafka.
 
+In addition to my expertise in Docker, Linux operating systems, servers, Python, and TensorFlow, I have a solid understanding of data engineering principles and practices. I am familiar with designing and implementing data pipelines, processing large datasets, and ensuring data reliability and scalability.
+
+When it comes to Apache Kafka, I have hands-on experience working with its distributed streaming platform. I can configure Kafka clusters, set up topics and partitions, and develop robust data streaming applications using Kafka's publish-subscribe messaging model. I understand the importance of data integration, real-time processing, and fault tolerance in building efficient and resilient data pipelines.
+
+With my combined skills in C++ development, data engineering, and knowledge of technologies like Kafka, I am well-equipped to tackle complex projects, design performant systems, and deliver high-quality software solutions.
 
 
 # Languages and Experience:
