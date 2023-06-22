@@ -13,8 +13,6 @@ As a Junior C++ Software Developer, I bring expertise in Docker, Linux operating
 
 <a href="https://isocpp.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/JanRipken/Icons_readme/main/languages_and_others/cpp/c++.svg" alt="c++" height="42px"/> </a> 
 
-<a href="https://docs.microsoft.com/de-de/dotnet/csharp/tour-of-csharp/" target="_blank"> <img align="left" alt="c#" height ="42px" src="https://raw.githubusercontent.com/JanRipken/Icons_readme/main/languages_and_others/csharp/csharp.svg"> </a>
-
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/JanRipken/Icons_readme/main/languages_and_others/python/python.svg"></a>
 
   
