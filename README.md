@@ -1,6 +1,7 @@
 
 ![I am GitHub Readme Generator's creator](https://github.com/JanRipken/JanRipken/blob/main/image.png)
-
+# About me
+As a Junior C++ Software Developer with expertise in Docker, Linux operating systems and servers, as well as Python and TensorFlow, I possess the ability to solve complex tasks and develop powerful software solutions. My soft skills include teamwork, strong communication, and quick learning ability. I am a dedicated individual who is always motivated to take on new challenges and continuously expand my knowledge.
 
 # Languages and Experience:
 
