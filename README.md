@@ -27,7 +27,7 @@ With my combined skills in C++ development, data engineering, and knowledge of t
 # Github Stats:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JanRipken&theme=dracula&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanRipken&theme=dracula&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats&exclude_repo=EasyCustomizableCnn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanRipken&theme=dracula&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats&hide=ipynb)
 
 <br/>
 
