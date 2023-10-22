@@ -2,7 +2,7 @@
 ![I am GitHub Readme Generator's creator](https://github.com/JanRipken/JanRipken/blob/main/image.png)
 # About me
 
-C++ Skript Kid getting data from a to b with cool Tech
+C, C++ Skript Kid getting data from a to b with cool Tech
 
 
 # Languages and Experience:
