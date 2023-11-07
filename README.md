@@ -6,11 +6,8 @@ C, C++ Skript Kid getting data from a to b with cool Tech
 
 
 # Languages and Experience:
-<p align="center">
-  <a href="https://skillicons.dev">
+
     <img src="https://skillicons.dev/icons?i=linux,raspberrypi,git,c,cpp,cmake,neovim,lua,bash,kafka,postgres,mongodb" />
-  </a>
-</p>
 
 
 <br>
