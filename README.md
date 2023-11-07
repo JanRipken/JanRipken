@@ -6,9 +6,7 @@ C, C++ Skript Kid getting data from a to b with cool Tech
 
 
 # Languages and Experience:
-
-    <img src="https://skillicons.dev/icons?i=linux,raspberrypi,git,c,cpp,cmake,neovim,lua,bash,kafka,postgres,mongodb" />
-
+![My Skills](https://skillicons.dev/icons?i=linux,git,c,cpp,cmake,neovim,lua,bash&theme=light)
 
 <br>
 <br/>
