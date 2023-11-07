@@ -8,17 +8,10 @@ C, C++ Skript Kid getting data from a to b with cool Tech
 # Languages and Experience:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=linux,raspberrypi,git,c,cpp,cmake,neovim,lua,bash,kafka,postgres,mongodb" />
   </a>
 </p>
 
-
-
-<a href="https://isocpp.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/JanRipken/Icons_readme/main/languages_and_others/c/c.svg" alt="c" height="42px"/> </a> 
-
-<a href="https://isocpp.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/JanRipken/Icons_readme/main/languages_and_others/cpp/c++.svg" alt="c++" height="42px"/> </a> 
-
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/JanRipken/Icons_readme/main/languages_and_others/python/python.svg"></a>
 
 <br>
 <br/>
