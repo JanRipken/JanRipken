@@ -19,8 +19,8 @@ C, C++ Skript Kid getting data from a to b with cool Tech
 
 # Github Stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JanRipken&theme=dracula&show_icons=true&hide_border=true&count_private=true)](https://github.com/JanRipken)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanRipken&theme=dracula&layout=compact&hide=jupyter%20notebook&_border=true)](https://github.com/JanRipken)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JanRipken&theme=graywhite&show_icons=true&hide_border=true&count_private=true)](https://github.com/JanRipken)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanRipken&theme=graywhite&layout=compact&hide=jupyter%20notebook&_border=true)](https://github.com/JanRipken)
 
 <br/>
 
