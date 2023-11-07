@@ -19,5 +19,5 @@ C, C++ Skript Kid getting data from a to b with cool Tech
 
 <br/>
 
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/jan-ripken-2950341b1)
 
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jan-ripken-2950341b1)
